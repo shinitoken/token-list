@@ -1,15 +1,16 @@
-﻿{
+{
   "chainId": 101,
   "address": "DmhLNdL3snDi8hVFTdCeD6TwSUiajhcFdMp322qxeHEw",
   "symbol": "SHI",
   "name": "Solana’s Ninja Meme Token",
   "decimals": 6,
-  "logoURI": "https://shinitoken.org/wp-content/uploads/2025/03/cropped-file-M1TMtTH7iv7geHyJk7ErPV-1-1.webp",
+  "logoURI": "https://raw.githubusercontent.com/shinitoken/token-list/main/assets/shini-logo.png",
   "tags": ["meme", "solana", "ninja"],
   "extensions": {
     "website": "https://shinitoken.org",
     "twitter": "https://twitter.com/SHINITOKEN2025",
     "telegram": "https://t.me/SHINITOKEN",
-    "discord": "https://discord.gg/jaBY7Bcz"
+    "discord": "https://discord.gg/jaBY7Bcz",
+    "github": "https://github.com/shinitoken/token-list"
   }
 }
