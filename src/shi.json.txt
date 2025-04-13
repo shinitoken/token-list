@@ -10,6 +10,6 @@
     "website": "https://shinitoken.org",
     "twitter": "https://twitter.com/SHINITOKEN2025",
     "telegram": "https://t.me/SHINITOKEN",
-    "discord": "https://discord.gg/u5nUUb5y"
+    "discord": "https://discord.gg/jaBY7Bcz"
   }
 }
